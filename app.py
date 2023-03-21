@@ -24,3 +24,8 @@ else:
 
 
 print("Done")
+printa("Done")
+print("Done")
+print("Done")
+print("Done")
+print("Done")
